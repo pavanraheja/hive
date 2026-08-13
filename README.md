@@ -1,3 +1,9 @@
+> **Fork notice.** This is a fork of [aden-hive/hive](https://github.com/aden-hive/hive),
+> kept for evaluation and reference. **The README below is upstream's work, not mine.**
+> Nothing here is authored by me — for my own systems see
+> [alphagrid-orchestrator](https://github.com/pavanraheja/alphagrid-orchestrator)
+> and [autonomous-execution-agents](https://github.com/pavanraheja/autonomous-execution-agents).
+
 <p align="center">
   <img width="100%" alt="Hive Banner" src="https://asset.acho.io/github/img/banner.gif" />
 </p>
