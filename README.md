@@ -2,7 +2,8 @@
 > kept for evaluation and reference. **The README below is upstream's work, not mine.**
 > Nothing here is authored by me — for my own systems see
 > [alphagrid-orchestrator](https://github.com/pavanraheja/alphagrid-orchestrator)
-> and [autonomous-execution-agents](https://github.com/pavanraheja/autonomous-execution-agents).
+> and [dubai-re-intelligence](https://github.com/pavanraheja/dubai-re-intelligence).
+> My contribution to upstream is [RFC #7218](https://github.com/aden-hive/hive/issues/7218).
 
 <p align="center">
   <img width="100%" alt="Hive Banner" src="https://asset.acho.io/github/img/banner.gif" />
